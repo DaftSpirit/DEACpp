@@ -1,5 +1,6 @@
 # DEACpp
 Implementation of differential evolution algorithm in C++
+This implementation is made to be tested with typical graphs of typical funcitons such as [Rastrigin](https://en.wikipedia.org/wiki/Rastrigin_function) or [Rosenbrock](https://en.wikipedia.org/wiki/Rosenbrock_function)
 
 # Code explanation
 
@@ -81,3 +82,7 @@ void MyAlgorithm::runDEA() {
   }
 }
 ```
+
+## Sources
+
+* [Differential Evolution Algorithm](https://en.wikipedia.org/wiki/Differential_evolution)
